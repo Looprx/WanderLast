@@ -5,10 +5,11 @@ An App made for Tourist and Merchants
 
 WanderLast
 
-Ui DESIGN FOR WANDERLAST https://www.figma.com/design/dukvELHax2tb1npTzQvPSp/WanderLast?node-id=1-374&t=qVRGRGKPoIQtcAgA-1
+Ui DESIGN FOR WANDERLAST
+(https://www.figma.com/design/dukvELHax2tb1npTzQvPSp/WanderLast?node-id=1-374&t=qVRGRGKPoIQtcAgA-1)
 
 
-barcode for plastics, VISION FOR 2030
+Barcode for Plastics, VISION FOR 2030
 
 
 outside plastic  - 
@@ -37,6 +38,6 @@ data collection - market place for shopkeepers to advertise genuine prices to to
 
 
 
-early transportation booking for tourists, discount
+early transportation booking for tourists, discounted prices 
 
 
